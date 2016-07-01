@@ -5,14 +5,27 @@ Answer: the .git file was created in order to start using the git features.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Answer: The staging area is like a middle area between the latter ones. It prepare the files being kept in the respository i think.
+
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Answer: The staging area can show the staged files to be committed and compare the chanaged between those in this area and repository.
+
+
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? 
+Answer: The branches can be used for seperately creating commits.
+
+How would branches help?
 
 How do the diagrams help you visualize the branch structure?
+Answers: The branches help me manage features seperately. The diagrams make me understand the structure. 
+
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
