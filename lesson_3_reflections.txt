@@ -3,3 +3,6 @@ Answer: I use it when i want to push my branch to the destination url.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Answer: I can prevent unintentional changes from GitHub respiratory that may be made by someone else.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Answer:Forks are used for cloning repiratories on GitHun. Clones are used for cloning repiratories between GitHub and any local company. Branches are the links of commits. Different ones have different usages.
