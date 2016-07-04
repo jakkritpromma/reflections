@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Answer: I use it when i want to push my branch to the destination url.
