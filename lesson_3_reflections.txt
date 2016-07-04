@@ -6,3 +6,6 @@ Answer: I can prevent unintentional changes from GitHub respiratory that may be 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Answer:Forks are used for cloning repiratories on GitHun. Clones are used for cloning repiratories between GitHub and any local company. Branches are the links of commits. Different ones have different usages.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Answer: It can be referred to.
