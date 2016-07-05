@@ -9,3 +9,6 @@ Answer:Forks are used for cloning repiratories on GitHun. Clones are used for cl
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer: It can be referred to.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer: Bitbucker? I don't know much about it.
