@@ -12,3 +12,6 @@ Answer: It can be referred to.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer: Bitbucker? I don't know much about it.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Answer: Another branch can be used for adding/testing/using a new feature that may/must not be in the master or main code.
